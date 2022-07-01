@@ -8,7 +8,7 @@
 	#
 	# options: OFF, VANILLA, MULTIPLIED
 	# default: OFF
-	cinematic_camera = "ON"
+	cinematic_camera = "MULTIPLIED"
 	# Reduces the mouse sensitivity when zooming.
 	# default: true
 	reduce_sensitivity = true

@@ -20,5 +20,27 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				pufferfish = true
+				item = true
+				axolotl = true
+				villager = true
+				cow = true
+				ocelot = true
+				tropical_fish = true
+				boat = true
+				hopper_minecart = true
+				skeleton = true
+				bat = true
+				zombie = true
+				armor_stand = true
+				cod = true
+				glow_squid = true
+				witch = true
 				glow_item_frame = false
+				squid = true
+				parrot = true
+				spider = true
+				sheep = true
+				creeper = true
+				player = true
 

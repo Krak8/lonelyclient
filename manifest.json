@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Lonely Client",
-  "version": "1.19",
+  "version": "1.0.1",
   "author": "Krak8",
   "files": [
     {
@@ -297,6 +297,16 @@
     {
       "projectID": 317780,
       "fileID": 3848427,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 3821014,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 3820953,
       "required": true
     }
   ],
