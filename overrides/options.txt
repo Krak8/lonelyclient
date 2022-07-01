@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -26,10 +26,10 @@ fov:0.0
 screenEffectScale:0.01
 fovEffectScale:0.1
 darknessEffectScale:1.0
-gamma:1.0
+gamma:4.584507042253521
 renderDistance:12
 simulationDistance:5
-entityDistanceScaling:1.0
+entityDistanceScaling:5.0
 guiScale:2
 particles:0
 maxFps:260
@@ -38,8 +38,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/default","lambdabettergrass/default"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","continuity/default","lambdabettergrass/default","file/VanillaTweaks_r751367.zip"]
+incompatibleResourcePacks:["file/VanillaTweaks_r751367.zip"]
 lastServer:play.minedaria.com
 lang:en_gb
 soundDevice:""
@@ -115,6 +115,14 @@ key_key.hotbar.9:key.keyboard.9
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.boosted-brightness.next:key.keyboard.b
+key_key.boosted-brightness.raise:key.keyboard.right.bracket
+key_key.boosted-brightness.lower:key.keyboard.left.bracket
+key_key.boosted-brightness.select1:key.keyboard.unknown
+key_key.boosted-brightness.select2:key.keyboard.unknown
+key_key.boosted-brightness.select3:key.keyboard.unknown
+key_key.boosted-brightness.select4:key.keyboard.unknown
+key_key.boosted-brightness.select5:key.keyboard.unknown
 key_nicephore.keybinds.copy:key.keyboard.keypad.1
 key_nicephore.keybinds.screenshots.gui:key.keyboard.keypad.3
 key_nicephore.keybinds.gallery.gui:key.keyboard.keypad.2
