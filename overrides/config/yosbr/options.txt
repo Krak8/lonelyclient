@@ -1,0 +1,14 @@
+version:2975
+autoJump:false
+fullscreen:true
+fov:1.0
+guiScale:2
+ao:2
+lang:en_gb
+tutorialStep:movement
+attackIndicator:2
+skipMultiplayerWarning:true
+soundCategory_music:0
+gamma:1
+maxFps:9999
+enableVsync:false
