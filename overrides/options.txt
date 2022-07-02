@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -29,7 +29,7 @@ darknessEffectScale:1.0
 gamma:4.584507042253521
 renderDistance:12
 simulationDistance:5
-entityDistanceScaling:5.0
+entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
@@ -37,8 +37,8 @@ graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
-resourcePacks:["vanilla","continuity/default","lambdabettergrass/default","file/VanillaTweaks_r751367.zip"]
+renderClouds:"false"
+resourcePacks:["vanilla","continuity/default","lambdabettergrass/default"]
 incompatibleResourcePacks:["file/VanillaTweaks_r751367.zip"]
 lastServer:play.minedaria.com
 lang:en_gb

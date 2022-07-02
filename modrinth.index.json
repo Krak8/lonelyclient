@@ -1,9 +1,8 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.0.2",
-  "name": "Lonely Client",
-  "summary": "Minecraft Version 1.19\nPack Version - beta 1.0.0\nQuilt (0.17.1-beta.4)",
+  "versionId": "1.0.3",
+  "name": "LonelyClient",
   "files": [
     {
       "path": "mods/3dskinlayers-fabric-1.4.7-mc1.19.jar",
