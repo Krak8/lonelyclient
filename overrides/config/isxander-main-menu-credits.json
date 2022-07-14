@@ -1,6 +1,16 @@
 {
-  "top_left": [],
-  "top_right": [{"text":"Made for Inferno.Land Network","clickEvent": {"action":"open_url","value":"https://discor.inferno.land"}}],
-  "mod_blacklist": [],
-  "bottom_left": [{"text":"LonelyClient 1.0.0","clickEvent": {"action":"open_url","value":"https://github.com/Krak8/lonelyclient"}}]
+  "main_menu": {
+    "top_left": [],
+    "top_right": [{"text":"Made for Inferno.Land Network","clickEvent": {"action":"open_url","value":"https://discord.inferno.land"}}],
+    "bottom_left": [],
+    "bottom_right": [{"text":"LonelyClient 1.0.3","clickEvent": {"action":"open_url","value":"https://github.com/Krak8/lonelyclient"}}],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [{"text":"Made for Inferno.Land Network","clickEvent": {"action":"open_url","value":"https://discord.inferno.land"}}],
+    "bottom_left": [],
+    "bottom_right": [{"text":"LonelyClient 1.0.3","clickEvent": {"action":"open_url","value":"https://github.com/Krak8/lonelyclient"}}],
+    "mod_blacklist": []
+  }
 }

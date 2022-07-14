@@ -1,8 +1,9 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.0.4",
+  "versionId": "1.0.5",
   "name": "LonelyClient",
+  "summary": "LonelyClient provides the best possible FPS along with some cool Add-Ons to improve gameplay experience.",
   "files": [
     {
       "path": "mods/3dskinlayers-fabric-1.4.7-mc1.19.jar",
@@ -530,21 +531,6 @@
       "fileSize": 164515
     },
     {
-      "path": "mods/ok_zoomer-5.0.0-beta.8+1.19.jar",
-      "hashes": {
-        "sha1": "b1f1ba1da763d2345ad37c882f0965e9607d31b7",
-        "sha512": "7f779ad3f3894bf6c53cfb7e589b735ceb48741daddb6c679cde62f5cdee2695c4ee3273e5dbc8188d2505e16a2168ab5fd66efb29a522c9b0ac247210c9f252"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.8+1.19/ok_zoomer-5.0.0-beta.8%2B1.19.jar"
-      ],
-      "fileSize": 259904
-    },
-    {
       "path": "mods/optigui-1.1.0.jar",
       "hashes": {
         "sha1": "9b07bcd54c2d5974c813d2db5e595efd5836cebd",
@@ -573,21 +559,6 @@
         "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.3/puzzle-1.3.3.jar"
       ],
       "fileSize": 131094
-    },
-    {
-      "path": "mods/qfapi-2.0.0-beta.3_qsl-2.0.0-beta.9_fapi-0.57.0_mc-1.19.jar",
-      "hashes": {
-        "sha1": "7d9c35094cd3b0561276e345da7435b25dc264fc",
-        "sha512": "a0d8749bdd86f153f6dbac69ff69d1b853b1e96906521f339179cd9dad97f5507f1d0a66c8bb98c8140ce68df1b8d2e7fabce5b8d43e0b3830a1808ea7ea73c0"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.3+0.57.0-1.19/qfapi-2.0.0-beta.3_qsl-2.0.0-beta.9_fapi-0.57.0_mc-1.19.jar"
-      ],
-      "fileSize": 1153363
     },
     {
       "path": "mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar",
@@ -680,21 +651,6 @@
       "fileSize": 5761479
     },
     {
-      "path": "mods/voicechat-fabric-1.19-2.2.47.jar",
-      "hashes": {
-        "sha1": "266cb26fb74ef4fcd0197039027f80294106211f",
-        "sha512": "9956e2e23c0928b2cbd550ecb5d6696a214235f5734ef78522c24a846fd1ba6f71ea06f9601524fa4f2553f28104d160c0622f6e2ed17df10a17225033d8ab30"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19-2.2.47/voicechat-fabric-1.19-2.2.47.jar"
-      ],
-      "fileSize": 6237136
-    },
-    {
       "path": "mods/yosbr-0.1.1.jar",
       "hashes": {
         "sha1": "0643830cab952fc96872702e681b863b550c8530",
@@ -708,10 +664,100 @@
         "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"
       ],
       "fileSize": 19206
+    },
+    {
+      "path": "mods/tooltipfix-1.0.5-1.19.jar",
+      "hashes": {
+        "sha1": "8dd951713909e327ae42deb22d0102dc0de07b83",
+        "sha512": "fca63f9d1501c4b685f816904adf95910a8a6fc696b113fc0ba191d534091bb1debfc3b0ae803d6dfe4334b37380cb846e68d2c3d45bd59fd631f8db3ed2ad74"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2RKFTmiB/versions/1.0.5-1.19/tooltipfix-1.0.5-1.19.jar"
+      ],
+      "fileSize": 10838
+    },
+    {
+      "path": "mods/clickthrough-1.19-fabric0.53.3-0.4.jar",
+      "hashes": {
+        "sha1": "769bd58d006534872e84e87dc90cef2274c45ac4",
+        "sha512": "4a2414c20b33aefbe79a23f25ac8f8697bf4c96a67bf7352c867e9e08bfbeebb7dd5677710817681bdd80873b6d0ad14bd29fa1ccc9cd75571becf5bdfe148b7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.19-fabric0.53.3-0.4/clickthrough-1.19-fabric0.53.3-0.4.jar"
+      ],
+      "fileSize": 113164
+    },
+    {
+      "path": "mods/soundphysics-fabric-1.19-1.0.8.jar",
+      "hashes": {
+        "sha1": "93da152745a442ee7859ce338c4dab4ad3f04fe7",
+        "sha512": "aad56c46c5e8fd7f694cf9836bc7be263152bcad25a475fc6eb08e2a69d90c5ba23dab6fa02e67220c288ac20d214b973fe584e200ec0591677206acf6570d84"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qyVF9oeo/versions/fabric-1.19-1.0.8/soundphysics-fabric-1.19-1.0.8.jar"
+      ],
+      "fileSize": 102184
+    },
+    {
+      "path": "mods/ok_zoomer-5.0.0-beta.8+1.19.jar",
+      "hashes": {
+        "sha1": "b1f1ba1da763d2345ad37c882f0965e9607d31b7",
+        "sha512": "7f779ad3f3894bf6c53cfb7e589b735ceb48741daddb6c679cde62f5cdee2695c4ee3273e5dbc8188d2505e16a2168ab5fd66efb29a522c9b0ac247210c9f252"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.8+1.19/ok_zoomer-5.0.0-beta.8%2B1.19.jar"
+      ],
+      "fileSize": 259904
+    },
+    {
+      "path": "mods/qfapi-2.0.0-beta.3_qsl-2.0.0-beta.9_fapi-0.57.0_mc-1.19.jar",
+      "hashes": {
+        "sha1": "7d9c35094cd3b0561276e345da7435b25dc264fc",
+        "sha512": "a0d8749bdd86f153f6dbac69ff69d1b853b1e96906521f339179cd9dad97f5507f1d0a66c8bb98c8140ce68df1b8d2e7fabce5b8d43e0b3830a1808ea7ea73c0"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.3+0.57.0-1.19/qfapi-2.0.0-beta.3_qsl-2.0.0-beta.9_fapi-0.57.0_mc-1.19.jar"
+      ],
+      "fileSize": 1153363
+    },
+    {
+      "path": "mods/voicechat-fabric-1.19-2.2.47.jar",
+      "hashes": {
+        "sha1": "266cb26fb74ef4fcd0197039027f80294106211f",
+        "sha512": "9956e2e23c0928b2cbd550ecb5d6696a214235f5734ef78522c24a846fd1ba6f71ea06f9601524fa4f2553f28104d160c0622f6e2ed17df10a17225033d8ab30"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19-2.2.47/voicechat-fabric-1.19-2.2.47.jar"
+      ],
+      "fileSize": 6237136
     }
   ],
   "dependencies": {
     "minecraft": "1.19",
-    "quilt-loader": "0.17.1-beta.4"
+    "quilt-loader": "0.17.1-beta.6"
   }
 }
