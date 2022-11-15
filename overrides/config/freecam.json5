@@ -1,6 +1,8 @@
 {
 	// The type of flight used by freecam.
 	"flightMode": "DEFAULT",
+	// The source of block/entity interactions.
+	"interactionMode": "CAMERA",
 	// The horizontal speed of freecam.
 	"horizontalSpeed": 1.0,
 	// The vertical speed of freecam.
@@ -8,11 +10,11 @@
 	// Whether you can travel through blocks in freecam.
 	"noclip": true,
 	/* Prevents player movement while freecam is active.
-	   WARNING: Multiplayer usage not advised.
+	   §cWARNING: Multiplayer usage not advised.
 	*/
 	"freezePlayer": false,
 	/* Whether you can interact with blocks/entities in freecam.
-	   WARNING: Multiplayer usage not advised.
+	   §cWARNING: Multiplayer usage not advised.
 	*/
 	"allowInteract": false,
 	// Disables freecam when damage is received.

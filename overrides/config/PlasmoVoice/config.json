@@ -1,0 +1,59 @@
+{
+  "servers": {
+    "51.79.163.111": {
+      "distance": 16,
+      "priorityDistance": 48
+    }
+  },
+  "playerVolumes": {
+    "c0ca5e7c-ddf9-38ad-abd2-c451cc0359aa": 1.0
+  },
+  "whitelist": false,
+  "voiceVolume": 1.0,
+  "priorityVolume": 1.0,
+  "occlusion": false,
+  "speakerMuted": false,
+  "showIcons": 0,
+  "micIconPosition": "BOTTOM_CENTER",
+  "voiceActivation": false,
+  "voiceActivationThreshold": -30.0,
+  "microphoneAmplification": 1.0,
+  "rnNoise": false,
+  "microphoneMuted": false,
+  "javaxCapture": false,
+  "hrtf": true,
+  "directionalSources": true,
+  "directionalSourcesAngle": 145,
+  "compressor": true,
+  "compressorThreshold": -10,
+  "limiterThreshold": -6,
+  "visualizeDistance": true,
+  "keyBindings": {
+    "pushToTalk": [
+      {
+        "type": "MOUSE",
+        "code": 3
+      }
+    ],
+    "priorityPushToTalk": [],
+    "muteMicrophone": [
+      {
+        "type": "KEYSYM",
+        "code": 77
+      }
+    ],
+    "muteChat": [],
+    "action": [
+      {
+        "type": "MOUSE",
+        "code": 1
+      }
+    ],
+    "increaseDistance": [],
+    "decreaseDistance": [],
+    "occlusion": []
+  },
+  "showPriorityVolume": true,
+  "micReverb": true,
+  "micReverbVolume": 1.0
+}
