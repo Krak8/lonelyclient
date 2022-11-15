@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.0.9",
-  "name": "UwU",
+  "versionId": "1.1.0",
+  "name": "UwU Client v1.1.0",
   "summary": "UwU Client provides the best possible FPS along with some cool Add-Ons to improve gameplay",
   "files": [
     {
@@ -859,10 +859,25 @@
         "https://cdn.modrinth.com/data/nfn13YXA/versions/qgg4feCN/RoughlyEnoughItems-9.1.572.jar"
       ],
       "fileSize": 2136600
+    },
+    {
+      "path": "mods/architectury-6.3.49-fabric.jar",
+      "hashes": {
+        "sha1": "9c6173d2c38306fd8f87d33e259d33fecb5e1dea",
+        "sha512": "47df57444cabb8f107e72dc626f64b0c968c0094c51bbb58e12010b06b77a2516b1606cdea58bac1b0a257aab760f726672305910ca70b07acb5113c0ec7611a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/KE5bu0Vd/architectury-6.3.49-fabric.jar"
+      ],
+      "fileSize": 562528
     }
   ],
   "dependencies": {
     "minecraft": "1.19.2",
-    "quilt-loader": "0.18.1-beta.12"
+    "quilt-loader": "0.18.1-beta.11"
   }
 }

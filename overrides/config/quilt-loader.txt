@@ -1,0 +1,5 @@
+#Quilt-loader configuration - not documented yet sorry!
+#Tue Nov 15 18:20:23 IST 2022
+restrict_game_versions=true
+always_show_mod_state_window=false
+load_sub_folders=true
